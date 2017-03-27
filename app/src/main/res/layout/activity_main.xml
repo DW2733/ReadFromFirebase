@@ -11,6 +11,7 @@
     tools:context="com.example.dadriaunna01.readfromfirebase.MainActivity">
 
     <TextView
+        android:id="@+id/display_text"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="Hello World!" />
